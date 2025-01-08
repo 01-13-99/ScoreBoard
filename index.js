@@ -1,10 +1,6 @@
 let pointsEl = document.getElementById("points-el");
 pointsEl.innerText = 0;
 
-let btnOne = document.getElementById("btn-one");
-let btnTwo = document.getElementById("btn-two");
-let btnThree = document.getElementById("btn-three");
-
 let points = 0;
 
 function plusOneClick(){
