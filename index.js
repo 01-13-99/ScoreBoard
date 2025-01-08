@@ -21,10 +21,6 @@ function plusThreeClick(){
 let pointsGuest = document.getElementById("points-guest")
 pointsGuest.innerText = 0;
 
-let btnOneGuest = document.getElementById("btn-one");
-let btnTwoGuest = document.getElementById("btn-two");
-let btnThreeGuest = document.getElementById("btn-three");
-
 guestPoints = 0;
 
 function plusOneClickGuest(){
